@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25,
+    "email": "smith@yopmail.com"
+  },
+  {
+    "firstName": "Maxx",
+    "lastName": "I",
+    "age": 27,
+    "email": "maxx@yopmail.com"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "X",
+    "age": 29,
+    "email": "richard@yopmail.com"
+  },
+  {
+    "firstName": "Dirk",
+    "lastName": "Kuyt",
+    "age": 26,
+    "email": "dirk@yopmail.com"
+  },
+  {
+    "firstName": "Koeman",
+    "lastName": "Rok",
+    "age": 45,
+    "email": "koeman@yopmail.com"
+  },
+  {
+    "firstName": "Sergi",
+    "lastName": "Busquets",
+    "age": 36,
+    "email": "sergei@yopmail.com"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Konan",
+    "age": 76,
+    "email": "arthur@yopmail.com"
+  }
+]

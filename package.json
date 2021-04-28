@@ -1,0 +1,23 @@
+{
+    "name": "mail-letter-program",
+    "version": "1.0.0",
+    "description": "Package to sent mail letter to user based on CSV input",
+    "main": "index.js",
+    "author": "Gaius Mathew",
+    "license": "MIT",
+    "dependencies": {
+        "amqplib": "^0.7.1",
+        "dotenv": "^8.2.0",
+        "express": "4.17.1",
+        "mysql": "^2.18.1",
+        "fs-extra": "9.1.0",
+        "csv-parse": "4.15.4",
+        "handlebars": "^4.7.6",
+        "mjml": "4.8.1",
+        "nodemailer": "^6.4.17"
+    },
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es5"
+    }
+}
