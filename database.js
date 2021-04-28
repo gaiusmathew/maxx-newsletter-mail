@@ -51,7 +51,7 @@ module.exports = class Database {
     async updateNewsLetterLog(customerEmail, newsLetterName, mailStatus) {
         // In logs set the default time for updated_on and created_on as current time in table itself for convenience
         return this.executeQuery(
-            `INSERT INTO logs(customer_email, created_on, updated_on, newsletter_name) VALUES ('${customerEmail}', '${newsLetterName}')`
+            `INSERT INTO logs(customer_email, newsletter_name) VALUES ('${customerEmail}', '${newsLetterName}')`
         );
     }
 };
