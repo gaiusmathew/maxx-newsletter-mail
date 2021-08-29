@@ -19,7 +19,7 @@ Steps for starting this project:
 
 6. After executing these commands, you can see the status of request made to the queue in terminal 1, first node will be stopped after sending request to queue
 7. The second terminal will actively display status of the message received from the queue and mail triggered status
-8. After successfully sedning mail to customer, a log will be added to logs table, in-case of failure the data will be added to a new queue to be processed.
+8. After successfully sending mail to customer, a log will be added to logs table, in-case of failure the data will be added to a new queue to be processed.
 
 Structure:
 
